@@ -1,7 +1,7 @@
 <div class="row justify-content-center">
   <div class="col-md-6 col-lg-5">
     <div class="text-center mb-4">
-      <h1 class="h2">Login Portal SI Akademik</h1>
+      <h1 class="h2">Login Portal SI Akademik Acara 12</h1>
       <p class="text-secondary mb-0">Masuk untuk mengelola data mahasiswa dan perkuliahan.</p>
     </div>
 
